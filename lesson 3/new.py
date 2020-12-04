@@ -43,13 +43,13 @@
 # for i in range (100,1,-1):
 #     print(i)
 
-# for i in range (1,10):
-#     for j in range (1,10):
-#         if i*j > 9:
-#             print(i*j, end = ' ')
-#         else:
-#             print(i*j, end = '  ')
-#     print()
+for i in range (1,10):
+    for j in range (1,10):
+        if i*j > 9:
+            print(i*j, end = ' ')
+        else:
+            print(i*j, end = '  ')
+    print()
 
 
 
